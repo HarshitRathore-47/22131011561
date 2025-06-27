@@ -1,0 +1,232 @@
+[INFO] 2025-06-27T08:53:42.926Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T08:54:23.302Z - Short URL created: http://localhost:3000/3520d4 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:54:23.300Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:54:27.998Z - Redirect: 3520d4 clicked. Referrer: direct
+2025-06-27T08:54:27.997Z [GET] /3520d4 302 - IP: ::1
+[ERROR] 2025-06-27T08:54:54.660Z - 404 Not Found: /shorturls/http://localhost:3000/3520d4
+2025-06-27T08:54:54.659Z [GET] /shorturls/http://localhost:3000/3520d4 404 - IP: ::1
+[ERROR] 2025-06-27T08:56:10.844Z - 404 Not Found: /shorturls/http://localhost:3000/3520d4
+2025-06-27T08:56:10.844Z [GET] /shorturls/http://localhost:3000/3520d4 404 - IP: ::1
+[ERROR] 2025-06-27T08:56:11.395Z - 404 Not Found: /shorturls/http://localhost:3000/3520d4
+2025-06-27T08:56:11.395Z [GET] /shorturls/http://localhost:3000/3520d4 404 - IP: ::1
+[ERROR] 2025-06-27T08:56:11.627Z - 404 Not Found: /shorturls/http://localhost:3000/3520d4
+2025-06-27T08:56:11.626Z [GET] /shorturls/http://localhost:3000/3520d4 404 - IP: ::1
+[ERROR] 2025-06-27T08:56:11.849Z - 404 Not Found: /shorturls/http://localhost:3000/3520d4
+2025-06-27T08:56:11.849Z [GET] /shorturls/http://localhost:3000/3520d4 404 - IP: ::1
+[INFO] 2025-06-27T08:58:16.424Z - Short URL created: http://localhost:3000/fb8ec9 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:16.423Z [POST] /shorturls 201 - IP: ::1
+2025-06-27T08:58:17.648Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:17.648Z - Short URL created: http://localhost:3000/53bcd6 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+[INFO] 2025-06-27T08:58:18.164Z - Short URL created: http://localhost:3000/3e9c9c -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:18.164Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:26.248Z - Short URL created: http://localhost:3000/26aae1 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:26.248Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:27.057Z - Short URL created: http://localhost:3000/b30b00 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:27.057Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:27.570Z - Short URL created: http://localhost:3000/09b3c5 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:27.570Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:29.446Z - Short URL created: http://localhost:3000/637f64 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:29.446Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:30.410Z - Short URL created: http://localhost:3000/31f767 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:30.409Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:30.830Z - Short URL created: http://localhost:3000/4015e4 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:30.830Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:31.115Z - Short URL created: http://localhost:3000/ff8311 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:31.114Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:31.344Z - Short URL created: http://localhost:3000/7551de -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:31.344Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:31.577Z - Short URL created: http://localhost:3000/8706ce -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:31.577Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:31.844Z - Short URL created: http://localhost:3000/53d5f9 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:31.843Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:32.042Z - Short URL created: http://localhost:3000/65af26 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:32.042Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:32.257Z - Short URL created: http://localhost:3000/445a98 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:32.257Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:32.538Z - Short URL created: http://localhost:3000/d57d84 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:32.538Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:32.792Z - Short URL created: http://localhost:3000/241733 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:32.792Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:33.029Z - Short URL created: http://localhost:3000/e0030d -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:33.028Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:33.272Z - Short URL created: http://localhost:3000/f342a6 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:33.272Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:33.511Z - Short URL created: http://localhost:3000/d3791f -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:33.511Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:33.735Z - Short URL created: http://localhost:3000/e1fd5b -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:33.735Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:34.009Z - Short URL created: http://localhost:3000/9253f3 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:34.009Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:34.259Z - Short URL created: http://localhost:3000/0a92d4 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:34.259Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:34.503Z - Short URL created: http://localhost:3000/a1daad -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:34.502Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T08:58:34.924Z - Short URL created: http://localhost:3000/95f4b3 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T08:58:34.924Z [POST] /shorturls 201 - IP: ::1
+[ERROR] 2025-06-27T08:58:56.222Z - 404 Not Found: /shorturls/http://localhost:3000/95f4b3
+2025-06-27T08:58:56.222Z [GET] /shorturls/http://localhost:3000/95f4b3 404 - IP: ::1
+[ERROR] 2025-06-27T09:00:13.768Z - 404 Not Found: /
+2025-06-27T09:00:13.768Z [GET] / 404 - IP: ::1
+[ERROR] 2025-06-27T09:00:14.173Z - Redirect failed: shortcode not found - favicon.ico
+2025-06-27T09:00:14.172Z [GET] /favicon.ico 404 - IP: ::1
+[ERROR] 2025-06-27T09:00:16.928Z - 404 Not Found: /shorturls/http://localhost:3000/95f4b3
+2025-06-27T09:00:16.928Z [GET] /shorturls/http://localhost:3000/95f4b3 404 - IP: ::1
+[ERROR] 2025-06-27T09:00:19.824Z - 404 Not Found: /
+2025-06-27T09:00:19.824Z [GET] / 404 - IP: ::1
+[INFO] 2025-06-27T09:00:23.069Z - Short URL created: http://localhost:3000/5269c7 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T09:00:23.069Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T09:00:37.222Z - Redirect: 5269c7 clicked. Referrer: direct
+2025-06-27T09:00:37.221Z [GET] /5269c7 302 - IP: ::1
+[INFO] 2025-06-27T09:07:47.573Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T09:07:57.035Z - URL Shortener Microservice running on port 3000
+[ERROR] 2025-06-27T09:08:37.116Z - 404 Not Found: /shorturls/http://localhost:3000/5269c7
+2025-06-27T09:08:37.115Z [GET] /shorturls/http://localhost:3000/5269c7 404 - IP: ::1
+[INFO] 2025-06-27T09:14:41.001Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T09:19:15.568Z - Stats request shortcode: 5269c7, data found: no
+[ERROR] 2025-06-27T09:19:15.568Z - Stats retrieval failed: shortcode not found - 5269c7
+2025-06-27T09:19:15.567Z [GET] /shorturls/5269c7 404 - IP: ::1
+[INFO] 2025-06-27T09:19:16.315Z - Stats request shortcode: 5269c7, data found: no
+[ERROR] 2025-06-27T09:19:16.315Z - Stats retrieval failed: shortcode not found - 5269c7
+2025-06-27T09:19:16.315Z [GET] /shorturls/5269c7 404 - IP: ::1
+[INFO] 2025-06-27T09:19:16.763Z - Stats request shortcode: 5269c7, data found: no
+[ERROR] 2025-06-27T09:19:16.763Z - Stats retrieval failed: shortcode not found - 5269c7
+2025-06-27T09:19:16.763Z [GET] /shorturls/5269c7 404 - IP: ::1
+[INFO] 2025-06-27T09:19:17.035Z - Stats request shortcode: 5269c7, data found: no
+[ERROR] 2025-06-27T09:19:17.035Z - Stats retrieval failed: shortcode not found - 5269c7
+2025-06-27T09:19:17.035Z [GET] /shorturls/5269c7 404 - IP: ::1
+[INFO] 2025-06-27T09:19:58.485Z - Short URL created: http://localhost:3000/b5dc2d -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T09:19:58.484Z [POST] /shorturls 201 - IP: ::1
+2025-06-27T09:20:05.550Z [GET] /shorturls/b5dc2d 200 - IP: ::1
+[INFO] 2025-06-27T09:20:05.550Z - Stats request shortcode: b5dc2d, data found: yes
+[INFO] 2025-06-27T09:23:56.515Z - Short URL created: http://localhost:3000/99e9e5 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T09:23:56.514Z [POST] /shorturls 201 - IP: ::1
+[ERROR] 2025-06-27T09:25:35.490Z - Short URL creation failed: Invalid shortcode format. Must be alphanumeric and 4-10 chars.
+2025-06-27T09:25:35.490Z [POST] /shorturls 409 - IP: ::1
+[INFO] 2025-06-27T09:25:50.531Z - Short URL created: http://localhost:3000/Abc1234 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T09:25:50.531Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T09:26:27.374Z - Stats request shortcode: Abc1234, data found: yes
+2025-06-27T09:26:27.374Z [GET] /shorturls/Abc1234 200 - IP: ::1
+[INFO] 2025-06-27T09:57:51.120Z - Short URL created: http://localhost:3000/9e4f58 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T09:57:51.119Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T09:57:56.684Z - Stats request shortcode: 9e4f58, data found: yes
+2025-06-27T09:57:56.684Z [GET] /shorturls/9e4f58 200 - IP: ::1
+[ERROR] 2025-06-27T10:16:19.826Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:16:19.826Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:16:19.835Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:16:19.835Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:22:12.359Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:22:12.359Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:22:12.366Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:22:12.366Z [GET] /shorturls 404 - IP: ::1
+[INFO] 2025-06-27T10:22:39.630Z - Short URL created: http://localhost:3000/baddf6 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:22:39.629Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:22:39.632Z - Short URL created: http://localhost:3000/8b213e -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:22:39.632Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:22:39.635Z - Short URL created: http://localhost:3000/5990b4 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:22:39.635Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:22:39.641Z - Short URL created: http://localhost:3000/547830 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:22:39.640Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:22:39.644Z - Short URL created: http://localhost:3000/0f9542 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:22:39.644Z [POST] /shorturls 201 - IP: ::1
+[ERROR] 2025-06-27T10:22:49.396Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:22:49.396Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:22:49.409Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:22:49.409Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:22:59.493Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:22:59.493Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:22:59.498Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:22:59.498Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:23:08.605Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:23:08.605Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:23:08.610Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:23:08.610Z [GET] /shorturls 404 - IP: ::1
+[INFO] 2025-06-27T10:29:31.407Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:29:35.231Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:30:37.116Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:31:44.924Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:32:02.642Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:32:21.649Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:32:23.564Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:32:27.468Z - URL Shortener Microservice running on port 3000
+[INFO] 2025-06-27T10:33:10.728Z - Short URL created: http://localhost:3000/3b5c47 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:10.725Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:10.751Z - Short URL created: http://localhost:3000/982981 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:10.751Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:10.758Z - Short URL created: http://localhost:3000/d899ff -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:10.758Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:10.764Z - Short URL created: http://localhost:3000/3bef6d -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:10.764Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:10.771Z - Short URL created: http://localhost:3000/02a013 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:10.770Z [POST] /shorturls 201 - IP: ::1
+[ERROR] 2025-06-27T10:33:17.750Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:33:17.750Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:33:17.771Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:33:17.771Z [GET] /shorturls 404 - IP: ::1
+[INFO] 2025-06-27T10:33:48.308Z - Short URL created: http://localhost:3000/ef06f8 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:48.307Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:48.316Z - Short URL created: http://localhost:3000/10466c -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:48.315Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:48.322Z - Short URL created: http://localhost:3000/0dcaf5 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:48.321Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:48.328Z - Short URL created: http://localhost:3000/08d801 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:48.327Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:33:48.333Z - Short URL created: http://localhost:3000/64f530 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:33:48.332Z [POST] /shorturls 201 - IP: ::1
+[ERROR] 2025-06-27T10:33:50.841Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:33:50.841Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:33:50.856Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:33:50.856Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:33:59.284Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:33:59.284Z [GET] /shorturls 404 - IP: ::1
+[ERROR] 2025-06-27T10:33:59.292Z - Redirect failed: shortcode not found - shorturls
+2025-06-27T10:33:59.291Z [GET] /shorturls 404 - IP: ::1
+[INFO] 2025-06-27T10:37:24.873Z - Short URL created: http://localhost:3000/d5bcbf -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:37:24.873Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:37:24.876Z - Short URL created: http://localhost:3000/183bb1 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:37:24.875Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:37:24.879Z - Short URL created: http://localhost:3000/7a7d68 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:37:24.878Z [POST] /shorturls 201 - IP: ::1
+2025-06-27T10:37:24.884Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:37:24.881Z - Short URL created: http://localhost:3000/17434e -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:37:24.881Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:37:24.884Z - Short URL created: http://localhost:3000/dff33d -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+[INFO] 2025-06-27T10:41:05.925Z - Short URL created: http://localhost:3000/8de5dd -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:41:05.924Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:41:05.929Z - Short URL created: http://localhost:3000/d4cc1c -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:41:05.929Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:41:05.932Z - Short URL created: http://localhost:3000/1a2517 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:41:05.932Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:41:05.935Z - Short URL created: http://localhost:3000/5c72ae -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:41:05.934Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:41:05.937Z - Short URL created: http://localhost:3000/6cee0a -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:41:05.937Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:46:30.007Z - Short URL created: http://localhost:3000/b3b52c -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:46:30.006Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:46:30.011Z - Short URL created: http://localhost:3000/99259a -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:46:30.011Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:46:30.013Z - Short URL created: http://localhost:3000/6e1af2 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:46:30.013Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:46:30.015Z - Short URL created: http://localhost:3000/3ab70e -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+2025-06-27T10:46:30.015Z [POST] /shorturls 201 - IP: ::1
+2025-06-27T10:46:30.020Z [POST] /shorturls 201 - IP: ::1
+[INFO] 2025-06-27T10:46:30.020Z - Short URL created: http://localhost:3000/8d3113 -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0#heading=h.14uqcy5uj6d4
+[INFO] 2025-06-27T10:46:34.139Z - Stats request shortcode: 3ab70e, data found: yes
+2025-06-27T10:46:34.138Z [GET] /shorturls/3ab70e 200 - IP: ::1
+[INFO] 2025-06-27T10:46:34.143Z - Stats request shortcode: 6e1af2, data found: yes
+2025-06-27T10:46:34.143Z [GET] /shorturls/6e1af2 200 - IP: ::1
+[INFO] 2025-06-27T10:46:34.145Z - Stats request shortcode: 99259a, data found: yes
+2025-06-27T10:46:34.145Z [GET] /shorturls/99259a 200 - IP: ::1
+[INFO] 2025-06-27T10:46:34.180Z - Stats request shortcode: b3b52c, data found: yes
+2025-06-27T10:46:34.179Z [GET] /shorturls/b3b52c 200 - IP: ::1
+[INFO] 2025-06-27T10:46:34.185Z - Stats request shortcode: 8d3113, data found: yes
+2025-06-27T10:46:34.185Z [GET] /shorturls/8d3113 200 - IP: ::1
+[INFO] 2025-06-27T10:46:34.194Z - Stats request shortcode: 3ab70e, data found: yes
+2025-06-27T10:46:34.194Z [GET] /shorturls/3ab70e 304 - IP: ::1
+[INFO] 2025-06-27T10:46:34.200Z - Stats request shortcode: 6e1af2, data found: yes
+2025-06-27T10:46:34.200Z [GET] /shorturls/6e1af2 304 - IP: ::1
+[INFO] 2025-06-27T10:46:34.197Z - Stats request shortcode: 99259a, data found: yes
+2025-06-27T10:46:34.197Z [GET] /shorturls/99259a 304 - IP: ::1
+[INFO] 2025-06-27T10:46:34.210Z - Stats request shortcode: b3b52c, data found: yes
+2025-06-27T10:46:34.210Z [GET] /shorturls/b3b52c 304 - IP: ::1
+[INFO] 2025-06-27T10:46:34.213Z - Stats request shortcode: 8d3113, data found: yes
+2025-06-27T10:46:34.213Z [GET] /shorturls/8d3113 304 - IP: ::1
